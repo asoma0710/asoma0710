@@ -40,7 +40,7 @@
 ### 📱 **Candy Store Mobile App (React Native)**  
 - Developed a **React Native mobile app** featuring **authentication, GPS tracking, and real-time chat**.  
 - Integrated **FastAPI backend & PostgreSQL** for **search and product discovery**.  
-- **🔗 [Project Repository](https://github.com/your-repo-link-here)**  
+- **🔗 [Project Repository](https://github.com/asoma0710/5373-MobileApps)**  
 
 ---
 
