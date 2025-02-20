@@ -35,7 +35,7 @@
 ### 🗂️ **Virtual File System with FastAPI** (Academic Project)  
 - Built a **Unix-like Virtual File System** using **SQLite & FastAPI**.  
 - Implemented **shell commands (`pwd, ls, mkdir, cp, mv, rm, chmod`)** with API interaction.  
-- **🔗 [Project Repository](https://github.com/your-repo-link-here)**  
+- **🔗 [Project Repository](https://github.com/asoma0710/5143-Opsys)**  
 
 ### 📱 **Candy Store Mobile App (React Native)**  
 - Developed a **React Native mobile app** featuring **authentication, GPS tracking, and real-time chat**.  
