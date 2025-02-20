@@ -30,7 +30,7 @@
 - Built a **CNN-based weed detection model** achieving **98% accuracy**.  
 - Developed a **GPS-integrated crop environment simulation** using **Python & OpenCV**.  
 - Designed a **custom AI-driven drone for precision agriculture**, integrating **autonomous navigation and targeted spraying**.  
-- **🔗 [Project Repository](https://github.com/your-repo-link-here)**  
+- **🔗 [Project Repository](https://github.com/asoma0710/PrecisionAgriculture_Research)**  
 
 ### 🗂️ **Virtual File System with FastAPI** (Academic Project)  
 - Built a **Unix-like Virtual File System** using **SQLite & FastAPI**.  
