@@ -74,11 +74,26 @@
 
 ## 📊 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asoma0710&show_icons=true&locale=en&layout=compact" alt="asoma0710" /></p>  
+## 📊 GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asoma0710&show_icons=true&locale=en" alt="asoma0710" /></p>  
+<p align="center">
+    <a href="https://github.com/asoma0710">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asoma0710&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="asoma0710 GitHub Stats" />
+    </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asoma0710&" alt="asoma0710" /></p>  
+<p align="center">
+    <a href="https://github.com/asoma0710">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asoma0710&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/asoma0710">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asoma0710&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
+</p>
+
 
 ---
 
