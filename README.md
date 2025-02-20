@@ -46,7 +46,9 @@
 
 ## 📬 Connect With Me  
 
-<a href="https://linkedin.com/in/aarun soma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarun soma" height="30" width="40" /></a>  
+<a href="www.linkedin.com/in/
+arun-soma-55a9a4142
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarun soma" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/asoma0710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asoma0710" height="30" width="40" /></a>  
 
 📧 **Email:** [arunedusoma@gmail.com](mailto:arunedusoma@gmail.com)  
