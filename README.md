@@ -46,10 +46,20 @@
 
 ## 📬 Connect With Me  
 
-<a href="www.linkedin.com/in/
-arun-soma-55a9a4142
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarun soma" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/asoma0710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asoma0710" height="30" width="40" /></a>  
+<p align="left">
+    <a href="https://www.linkedin.com/in/arun-soma-55a9a4142" target="_blank" style="margin-right: 20px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>  
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.leetcode.com/asoma0710" target="_blank" style="margin-right: 20px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:arunedusoma@gmail.com" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg" alt="Email" height="30" width="40" />
+    </a>
+</p>
+
 
 📧 **Email:** [arunedusoma@gmail.com](mailto:arunedusoma@gmail.com)  
 
