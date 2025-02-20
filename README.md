@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">AI-Powered Innovator | Full-Stack & Mobile Dev | Precision Agriculture 🚀 | VEX Robotics & Embedded Systems Enthusiast | Electronics & IoT | Academic Projects in Systems & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asoma0710&label=Profile%20views&color=0e75b6&style=flat" alt="asoma0710" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asoma0710" alt="asoma0710" /></a> </p>
 
 ---
 
