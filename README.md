@@ -37,7 +37,7 @@
 - **🔗 [Project Repository](https://github.com/asoma0710/5143-Opsys)**
 
 ### 🗂️ **GestureAI** (Academic Project)  
--GestureAI is a mobile application designed to provide real-time translation of American Sign Language (ASL) into text, and vice versa, to enhance communication between deaf/hard-of-hearing individuals and hearing users
+- GestureAI is a mobile application designed to provide real-time translation of American Sign Language (ASL) into text, and vice versa, to enhance communication between deaf/hard-of-hearing individuals and hearing users
 - **🔗 [Project Repository](https://github.com/asoma0710/GestureAI)**
 
 ### 📱 **Candy Store Mobile App (React Native)**  
