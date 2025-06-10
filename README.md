@@ -8,8 +8,8 @@
 ## 🚀 About Me  
 
 🔭 **Research Focus:**  
-- **Precision Agriculture AI Drone System** – Developing a **CNN-based weed detection system** with **GPS-integrated drone navigation** for optimized spraying.  
-- Designing a **custom AI-driven drone**, integrating **LiDAR, GPS, and Jetson Nano for real-time AI processing**.  
+- **Precision Agriculture AI Drone System** – Developed a **CNN-based weed detection system** for optimized spraying.  
+- Designed and developed an auto **custom driven drone**, integrating **LiDAR, GPS, and Jetson Nano for real-time image processing** to detect weeds and spray herbicides.  
 - **Funded by an intramural grant** at **Midwestern State University**.  
 
 👨‍💻 **Full-Stack & Mobile Development:**  
@@ -27,7 +27,8 @@
 ### 🛰️ **Precision Agriculture AI Drone System**  
 - Built a **CNN-based weed detection model** achieving **98% accuracy**.  
 - Developed a **GPS-integrated crop environment simulation** using **Python & OpenCV**.  
-- Designed a **custom AI-driven drone for precision agriculture**, integrating **autonomous navigation and targeted spraying**.  
+- Designed a **custom AI-driven drone for precision agriculture**, integrating **autonomous navigation and targeted spraying**.
+- Published a Research paper on my findings 
 - **🔗 [Project Repository](https://github.com/asoma0710/PrecisionAgriculture_Research)**  
 
 ### 🗂️ **Virtual File System with FastAPI** (Academic Project)  
