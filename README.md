@@ -34,7 +34,11 @@
 ### 🗂️ **Virtual File System with FastAPI** (Academic Project)  
 - Built a **Unix-like Virtual File System** using **SQLite & FastAPI**.  
 - Implemented **shell commands (`pwd, ls, mkdir, cp, mv, rm, chmod`)** with API interaction.  
-- **🔗 [Project Repository](https://github.com/asoma0710/5143-Opsys)**  
+- **🔗 [Project Repository](https://github.com/asoma0710/5143-Opsys)**
+
+### 🗂️ **GestureAI** (Academic Project)  
+-GestureAI is a mobile application designed to provide real-time translation of American Sign Language (ASL) into text, and vice versa, to enhance communication between deaf/hard-of-hearing individuals and hearing users
+- **🔗 [Project Repository](https://github.com/asoma0710/GestureAI)**
 
 ### 📱 **Candy Store Mobile App (React Native)**  
 - Developed a **React Native mobile app** featuring **authentication, GPS tracking, and real-time chat**.  
