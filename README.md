@@ -29,7 +29,7 @@
 - Developed a **GPS-integrated crop environment simulation** using **Python & OpenCV**.  
 - Designed a **custom AI-driven drone for precision agriculture**, integrating **autonomous navigation and targeted spraying**.
 - Published a Research paper on my findings 
-- **🔗 [Project Repository](https://github.com/asoma0710/PrecisionAgriculture_Research)**  
+- **🔗 [Project Repository](https://github.com/asoma0710/PrecisionAgriculture)**  
 
 ### 🗂️ **Virtual File System with FastAPI** (Academic Project)  
 - Built a **Unix-like Virtual File System** using **SQLite & FastAPI**.  
